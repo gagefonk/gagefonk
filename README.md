@@ -1,6 +1,6 @@
-## Hi there
+## Hi there 
 
-I'm Gage, a software engineer based in USA!
+I'm [Gage](https://www.linkedin.com/in/gagefonk/), a software engineer based in USA!
 
 Currently employed by Golf Genius working on one of their mobile apps, Golfshot.
 
@@ -8,9 +8,9 @@ My main technologis are Swift, SwiftUI, UIKit, Objective-C, XCode.
 
 Currently in school for Masters of Computer Science at GATECH, expected graduation of DEC 26.
 
-Other things I like to dabble in:
-- rust
-- neovim
+Other things I like to dabble in/learn:
+- Rust
+- Neovim
 - AI
 
 Fun Facts:
