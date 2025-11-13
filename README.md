@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**gagefonk/gagefonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gage, a software engineer based in USA!
 
-Here are some ideas to get you started:
+Currently employed by Golf Genius working on one of their mobile apps, Golfshot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main technologis are Swift, SwiftUI, UIKit, Objective-C, XCode.
+
+Currently in school for Masters of Computer Science at GATECH, expected graduation of DEC 26.
+
+Other things I like to dabble in:
+- rust
+- neovim
+- AI
+
+Fun Facts:
+- I like anything ocean related(diving/fishing/etc), motorcycles, gym, gaming.
+- I have two cats and one doberman.
+- I'll never be satisfied with my neovim configuration.
